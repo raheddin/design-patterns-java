@@ -1,4 +1,4 @@
-package my.dpj.raheddin.creationalDesignPattern.factory;
+package my.dpj.raheddin.creationalDesignPattern.factory.example1;
 
 public class DomesticPlan extends Plan {
     @Override

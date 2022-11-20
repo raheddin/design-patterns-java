@@ -1,4 +1,4 @@
-package my.dpj.raheddin.creationalDesignPattern.factory;
+package my.dpj.raheddin.creationalDesignPattern.factory.example1;
 
 import java.io.BufferedReader;
 import java.io.IOException;
